@@ -31,6 +31,8 @@ an NFT, and fill in the details. Set the supply to unlimited.
 
 Copy the template ID of the NFT. // TODO: this doesnt work in the UI and needs calling the API
 
+Edit `const.ts` and fill in the values
+
 ## TODO
 
 - Vercel button
